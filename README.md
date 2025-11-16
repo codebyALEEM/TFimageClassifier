@@ -1,6 +1,6 @@
 
 
-# Machine Learning Image Classification Projects
+# Image Classification Projects
 
 This repository contains multiple image classification projects implemented using Python and machine learning/deep learning techniques. Each project includes a Jupyter Notebook for training and evaluation, along with an explanation file for understanding the workflow.
 
